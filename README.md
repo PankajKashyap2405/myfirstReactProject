@@ -1,2 +1,3 @@
 # myfirstReactProject
-ReactJS
+Learning & Practicing ReactJS
+By Pankaj
